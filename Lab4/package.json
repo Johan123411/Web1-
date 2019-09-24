@@ -1,0 +1,17 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "CS 546 assignment 4 ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Siddhant Barua 10439929",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.1.6",
+    "save": "^2.3.2",
+    "uuid": "^3.3.2"
+  }
+}
